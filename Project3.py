@@ -1,11 +1,3 @@
-# File: Project3.py
-# Student: Asmit Chakraborty
-# UT EID: ac83832
-# Course Name: CS303E
-#
-# Date: November 18, 2022
-# Description of Program: Encrypts or Decrypts a file given a key
-
 import random
 import os.path
 
